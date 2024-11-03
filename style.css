@@ -1,0 +1,31 @@
+.bdy{
+    margin: 5vw;
+}
+
+h6{
+    color: rgb(16, 16, 156);
+}
+
+.bdy{
+    font-weight: 400;
+}
+
+.hr1, .hr2{
+    height: 3px;
+}
+
+.carousel-itemcol{
+    height: 50vh;
+    color: white;
+    background-color: #292828;
+}
+
+.carousel-itemcol col{
+    height: 100%;
+    background-color: #fff;
+    width: 30%;
+}
+
+.corrow img{
+    width: 150px;
+}
